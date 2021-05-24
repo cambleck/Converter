@@ -9,7 +9,7 @@
   },
   "author": "cambleck",
   "devDependencies": {
-    "electron": "~1.6.2"
+    "electron": "^1.6.18"
   },
   "dependencies": {
     "attr-accept": "^1.1.3",

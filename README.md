@@ -1,6 +1,7 @@
 ### Getting started
 
 Video File Converter for Desktop
+
 Convert mp4, mkv, avi, mov files.
 
 Install ffmpeg from brew

@@ -20,7 +20,7 @@ ipcMain.on("videos:added", (event, videos) => {
     return new Promise((resolve, reject) => {
       ffmpeg.ffprobe(video.path, (err, metadata) => {
         video.duration = metadata.format.duration;
-        video.format = "avi";
+        video.format = "mp4";
         resolve(video);
       });
     });

@@ -10,7 +10,7 @@ const VIDEO_FORMATS = [
   { value: "mov", option: "MOV / QuickTime" },
   { value: "mp4", option: "MP4 / QuickTime" },
   { value: "mpeg", option: "MPEG" },
-  { value: "mkv", option: "MKV" },
+  { value: "ogv", option: "OGV" },
 ];
 
 class VideoList extends Component {
